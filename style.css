@@ -1,0 +1,27 @@
+ p{
+ 	font-family:serif;
+ 	color:mediumpurple;text-decoration:underline;"
+ }
+
+
+ #titre-principal {
+ 	background-color: mediumpurple;
+ 	text-align: center;
+ 	color: white;
+ 	font-weight: bold;
+ }
+ .text-intro {
+ 	font-style : italic;
+ 	font-weight: bold;
+ }
+
+}
+
+ a:hover{
+ 	color: yellowgreen;
+ }
+
+#couleur-list {
+	background-color:color #FFEFFF;
+
+}
