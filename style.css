@@ -84,3 +84,33 @@
 #sous-titre-phoenix {
 	color:orangered;
 }
+
+#temps-refre {
+	position: absolute;
+ 	left: 300px;
+ 	top:270px
+}
+
+#ingre-gene {
+	position: absolute;
+ 	left: 300px;
+ 	top:300px
+}
+
+#list-gene {
+	position: absolute;
+ 	left: 300px;
+ 	top:310px
+}
+
+#ingre-caramel {
+	position: absolute;
+ 	left: 300px;
+ 	top:325px
+}
+
+#list-caramel {
+	position: absolute;
+ 	left: 300px;
+ 	top:330px
+}
