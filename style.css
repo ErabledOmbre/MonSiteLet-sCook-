@@ -1,9 +1,3 @@
- p{
- 	font-family:serif;
- 	color:mediumpurple;text-decoration:underline;"
- }
-
-
  #titre-principal {
  	background-color: mediumpurple;
  	text-align: center;
@@ -15,13 +9,68 @@
  	font-weight: bold;
  }
 
+ #img-accueil {
+ 	position:absolute;
+ 	right: 100px;
+ 	top: 250px;
+ }
+
 }
 
  a:hover{
  	color: yellowgreen;
  }
 
-#couleur-list {
-	background-color:color #FFEFFF;
+#titre-principal-iso {
+ 	background-color: mediumpurple;
+ 	text-align: center;
+ 	color: white;
+ 	font-weight: bold;
+ }
 
+ #sous-titre-iso {
+ 	color: darkblue;
+ }
+
+ #titre-principal-reyna {
+ 	background-color: darkmagenta;
+ 	text-align: center;
+ 	color: white;
+ }
+
+ #sous-titre-reyna {
+ 	color:deeppink;
+ }
+
+ #ingre-glacage {
+ 	position: absolute;
+ 	left: 400px;
+ 	top:230px;
+ }
+
+ #list-glacage {
+ 	position: absolute;
+ 	left: 400px;
+ 	top:270px;
+ }
+
+ #skye-laming {
+ 	position: absolute;
+ 	right:100px;
+ }
+
+ #titre-principal-skye {
+ 	background-color:seagreen;
+ 	text-align:center;
+ 	color:white;
+ }
+
+ #sous-titre-skye {
+ 	color:limegreen;
+ }
+
+#list-temps {
+	position: absolute;
+	left: 400px;
+	top:125px;
 }
