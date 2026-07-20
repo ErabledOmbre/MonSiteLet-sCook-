@@ -74,3 +74,13 @@
 	left: 400px;
 	top:125px;
 }
+
+#titre-principal-phoenix {
+	background-color: orange;
+	text-align: center;
+	color:white;
+}
+
+#sous-titre-phoenix {
+	color:orangered;
+}
