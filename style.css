@@ -93,8 +93,14 @@
 
 #ingre-chantilly {
 	position: absolute;
- 	left: 300px;
- 	top:310px
+ 	left: 460px;
+ 	top:320px
+}
+
+#list-chantilly {
+	position: absolute;
+ 	left: 460px;
+ 	top:340px
 }
 
 #ingre-gene {
@@ -102,3 +108,4 @@
  	left: 300px;
  	top:180px
 }
+
