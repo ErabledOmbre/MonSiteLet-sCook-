@@ -95,6 +95,7 @@
 	position: absolute;
  	left: 460px;
  	top:322px
+ 	color:darkorange;
 }
 
 #list-chantilly {
@@ -105,7 +106,12 @@
 
 #ingre-gene {
 	position: absolute;
- 	left: 440px;
- 	top:300px
+ 	left: 460px;
+ 	top:190px
 }
 
+#list-gene {
+	position: absolute;
+ 	left: 440px;
+ 	top:235px
+}
