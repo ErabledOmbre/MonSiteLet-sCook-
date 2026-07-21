@@ -94,8 +94,7 @@
 #ingre-chantilly {
 	position: absolute;
  	left: 460px;
- 	top:322px
- 	color:darkorange;
+ 	top:323px
 }
 
 #list-chantilly {
@@ -115,3 +114,17 @@
  	left: 440px;
  	top:235px
 }
+
+#ingre-gene {
+	color:darkorange;
+}
+
+#ingre-chantilly {
+	color:darkorange;
+}
+
+#ingre-caramel {
+	color:darkorange;
+}
+
+#
