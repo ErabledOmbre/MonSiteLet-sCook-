@@ -32,6 +32,10 @@
  	color: darkblue;
  }
 
+#ingre-boba {
+	color:mediumpurple;
+}
+
  #titre-principal-reyna {
  	background-color: darkmagenta;
  	text-align: center;
@@ -41,6 +45,18 @@
  #sous-titre-reyna {
  	color:deeppink;
  }
+
+ #ingre-riz {
+ 	color:darkmagenta;
+ }
+
+#ingre-gato {
+	color:seagreen;
+}
+
+#ingre-glacage {
+	color:seagreen;
+}
 
  #ingre-glacage {
  	position: absolute;
