@@ -88,5 +88,17 @@
 #temps-refre {
 	position: absolute;
  	left: 300px;
- 	top:300px
+ 	top:200px
+}
+
+#ingre-chantilly {
+	position: absolute;
+ 	left: 300px;
+ 	top:150px
+}
+
+#ingre-gene {
+	position: absolute;
+ 	left: 300px;
+ 	top:100px
 }
