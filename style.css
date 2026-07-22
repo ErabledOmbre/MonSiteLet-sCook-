@@ -9,6 +9,11 @@
  	font-weight: bold;
  }
 
+ #sous-titre {
+ 	color:rebeccapurple;
+ 	text-align:center;
+ }
+
  #img-accueil {
  	position:absolute;
  	right: 100px;
