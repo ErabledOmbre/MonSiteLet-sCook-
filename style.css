@@ -19,7 +19,7 @@
  	right: 100px;
  	top: 250px;
  }
- 
+
 
  #texte-cool {
  	text-align:center;
@@ -27,8 +27,8 @@
 
 
  .colonne-sommaire {
-  background-color: #lightyellow; /* Couleur de fond */
-  width: 200px; /* Largeur de la colonne */
+  background-color: lightyellow; /* Couleur de fond */
+  width: 150px; /* Largeur de la colonne */
   padding: 40px; /* Espace intérieur */
   border-radius: 5px; /* Coins arrondis */
   float: left; /* Pour placer la colonne à gauche */
