@@ -29,7 +29,7 @@
  .colonne-sommaire {
   background-color: lightyellow; /* Couleur de fond */
   width: 200px; /* Largeur de la colonne */
-  padding: 40px; /* Espace intérieur */
+  padding: 70px; /* Espace intérieur */
   border-radius: 5px; /* Coins arrondis */
   float: left; /* Pour placer la colonne à gauche */
   margin-right: 20px; /* Espace à droite */
